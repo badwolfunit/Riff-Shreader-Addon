@@ -1,0 +1,27 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Riff Shreader Addon BP",
+        "description": "Behavior pack for custom guitars",
+        "uuid": "ec1f6d35-7ae0-4c19-afb8-70ce5237bb0b",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [{
+        "type": "data",
+        "uuid": "50d6a4ff-3a54-4f58-9f98-75595163d18a",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
+}
