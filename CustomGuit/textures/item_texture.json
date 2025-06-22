@@ -1,0 +1,8 @@
+{
+    "resource_pack_name": "Riff shreader",
+    "texture_data": {
+        "guitar:teenspirit": {
+            "textures": "textures/items/th-3939832833"
+        }
+    }
+}

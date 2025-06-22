@@ -1,0 +1,11 @@
+{
+    "individual_event_sounds": {
+        "events": {
+            "chest.open": {
+                "pitch": [0.90, 1.0],
+                "sound": "01 Smells Like Teen Spirit 2",
+                "volume": 1
+            }
+        }
+    }
+}
